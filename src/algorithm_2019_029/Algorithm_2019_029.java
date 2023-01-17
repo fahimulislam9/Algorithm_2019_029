@@ -16,6 +16,9 @@ public class Algorithm_2019_029 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("asdjfdjs");
+        System.out.println("jhagseewt");
+//        fdghsd
     }
     
 }
